@@ -7,3 +7,8 @@ php artisan migrate
 ```
 composer i
 ```
+
+### Run app
+```
+php artisan serve
+```
